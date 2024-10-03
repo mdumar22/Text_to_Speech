@@ -6,7 +6,6 @@ const textInputField = document.querySelector("#text-input")
 
   const synth = window.speechSynthesis
 
-  let ourText = ""
 
   form.onsubmit = (event) => {
 
